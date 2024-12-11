@@ -4,5 +4,5 @@ Welcome to my GitHub profile! I'm a passionate Frontend Engineer who loves build
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Node Js Docker**
+- 🌱 I’m currently learning **GO Docker**
 
