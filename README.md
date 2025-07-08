@@ -2,6 +2,16 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer who loves building innovative solutions and exploring new technologies. 
 
+# Open to remote opportunities and collaborations.
+  
+<p align="center">
+  <a href="https://github.com/Nabin-web">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%26+Next.js;TypeScript+Enthusiast+%7C+Node.js+Developer;Building+clean+%26+scalable+web+apps;Passionate+about+UX+%26+Performance" alt="Typing SVG" />
+  </a>
+</p>
+
+📫 Reach me at: [nabin.kutu11@gmail.com](mailto:nabin.kutu11@gmail.com)
+
 ## 🔥 GitHub Streak & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin-web&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nabin-web&theme=tokyonight&hide_border=true)
