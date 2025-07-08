@@ -1,6 +1,6 @@
 # Hi there, I'm Nabin Kutu! 👋
 
-Welcome to my GitHub profile! I'm a passionate Frontend Engineer who loves building innovative solutions and exploring new technologies. 
+Welcome to my GitHub profile! I'm a passionate Software Engineer who loves building innovative solutions and exploring new technologies. 
 
 ## 🔥 GitHub Streak & Activity
 
