@@ -2,10 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate Frontend Engineer who loves building innovative solutions and exploring new technologies. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=folke&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=folke&theme=default)
+## 🔥 GitHub Streak & Activity
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nabin-web&theme=tokyonight&hide_border=true)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nabin-web&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
