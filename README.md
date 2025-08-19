@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer who loves build
   
 <p align="center">
   <a href="https://github.com/Nabin-web">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+React+%26+Next.js;TypeScript+Enthusiast+%7C+Node.js+Developer;Building+clean+%26+scalable+web+apps;Passionate+about+UX+%26+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+React+%26+Next.js;Enthusiast+TypeScript+%7C+Node.js+Developer;Building+clean+%26+scalable+web+apps;Passionate+about+UX+%26+Performance" alt="Typing SVG" />
 
   </a>
 </p>
